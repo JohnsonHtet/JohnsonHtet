@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johnson Htet</h1>
 <h3 align="center">I'm NodeJS developer from Myanmar.</h3>
 
-- 🔭 I’m currently working on **Lay Bane Car Discord Bot(Coming Soon)**
+- 🔭 I’m currently working on **Coming Soon!!**
 
 - 🌱 I’m currently learning **Everything**
 
