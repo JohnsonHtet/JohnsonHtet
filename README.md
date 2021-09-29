@@ -14,5 +14,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnsonhtet&show_icons=true&locale=en&layout=compact" alt="johnsonhtet" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnsonhtet&show_icons=true&locale=en" alt="johnsonhtet" /></p>
-### Hi there 👋
 
